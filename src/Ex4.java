@@ -13,6 +13,6 @@ Codepoint count = 9
  *
  * @author batman
  */
-public class NumberUnicode {
+public class Ex4 {
     
 }

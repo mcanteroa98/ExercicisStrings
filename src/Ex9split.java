@@ -14,7 +14,7 @@ Comparing Example.com and example.com: false
  *
  * @author batman
  */
-public class Ex9 {
+public class Ex9split {
         public static void main (String[] args){
         boolean r = false;
         

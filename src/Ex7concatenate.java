@@ -12,7 +12,7 @@ The concatenated string: PHP Exercises and Python Exercises
  *
  * @author batman
  */
-public class Ex7 {
+public class Ex7concatenate {
     public static void main(String[] args) {
         String frase1 = "Hostia ";
         String frase2 = "pilotes!";

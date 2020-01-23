@@ -15,7 +15,7 @@ Character(unicode point) = 99
 El codePointBefore agafa el index anterior al marcat
 * 
  */
-public class CodePointBefore {
+public class Ex3CodePointBefore {
         public static void main(String[] args) {
         String frase = "Uep com anam";
         System.out.println(frase);

@@ -15,7 +15,7 @@ Character(unicode point) = 101
 Encripta el char assignat
 * str.codePointAt(1);
  */
-public class UnicodePoint1 {
+public class Ex2UnicodePoint1 {
     public static void main(String[] args) {
         String frase = "Uep com anam";
         System.out.println(frase);

@@ -12,7 +12,7 @@ String 2: This is Exercise 2
  *
  * @author batman
  */
-public class Ex5 {
+public class Ex5compareTo {
     public static void main(String[] args) {
         String frase1 = "Hola 1";
         String frase2 = "Hola 1";

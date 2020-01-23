@@ -17,7 +17,7 @@ import java.util.Scanner;
  *
  * @author batman
  */
-public class indexCharacter {
+public class Ex1indexCharacter {
     char SacarLetra (int j, String frase){
         char letra;
         letra = frase.charAt(j);
@@ -37,7 +37,7 @@ public class indexCharacter {
         System.out.println("Escribe el numero del indice");
         n = sc.nextInt();
         
-        indexCharacter ob = new indexCharacter();
+        Ex1indexCharacter ob = new Ex1indexCharacter();
         
         respuesta = ob.SacarLetra(n, frase);
         System.out.println("The character at position " + n +  " is " + respuesta);

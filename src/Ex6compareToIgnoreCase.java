@@ -14,7 +14,7 @@ String 2: This is Exercise 1
  *
  * @author batman
  */
-public class Ex6 {
+public class Ex6compareToIgnoreCase {
         public static void main(String[] args) {
         String frase1 = "Hola 1";
         String frase2 = "Hola 2";

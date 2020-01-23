@@ -13,7 +13,7 @@ true
  *
  * @author batman
  */
-public class Ex8 {
+public class Ex8loQueQuieroBuscar {
     public static void main (String[] args){
         boolean r = false;
         
